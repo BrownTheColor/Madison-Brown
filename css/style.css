@@ -1,0 +1,57 @@
+body {
+  background-color: grey;
+}
+
+.header,
+.nav,
+.footer {
+  width: 100%;
+  height: 70px;
+  background-color: silver;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.container {
+  width: 100%;
+  margin-top: 10px;
+}
+
+
+.section,
+.aside {
+  display: inline-block;
+  width: 49.4%;
+  vertical-align: top;
+}
+
+
+
+
+.section-content,
+.aside-content {
+  height: 180px;
+  background-color: silver;
+  padding: 5px;
+}
+
+.article {
+  width: 100%;
+  display: inline-block;
+}
+
+.article-content {
+  width: 100%;
+  background-color: grey;
+}
+
+.padding-container {
+  padding: 5px;
+}
+
+.articles {
+  width: 100%;
+  height: 30px;
+  background-color: silver;
+  margin-top: 10px;
+}
